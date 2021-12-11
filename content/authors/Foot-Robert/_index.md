@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Robert Foot 
+title: Robert Foot 
 
 # Is this the primary user of the site?
 superuser: false

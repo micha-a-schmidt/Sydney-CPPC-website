@@ -1,12 +1,15 @@
 ---
 # Display name
-title: A/Prof Bruce Yabsley 
+title: Bruce Yabsley 
+
+authors:
+- Yabsley-Bruce
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-#role: University of Sydney
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:

@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Dr Michael A Schmidt
+title: Michael A Schmidt
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-#role: UNSW
+role: Senior Lecturer
 # (Senior Lecturer)
 
 # Organizations/Affiliations

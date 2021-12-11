@@ -1,6 +1,6 @@
 ---
 # Display name
-title: A/Prof Lawrence Peak
+title: Lawrence Peak
 
 # Is this the primary user of the site?
 superuser: false

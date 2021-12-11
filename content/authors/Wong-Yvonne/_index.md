@@ -1,12 +1,12 @@
 ---
 # Display name
-title: A/Prof Yvonne Wong
+title: Yvonne Wong
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-#role: UNSW
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:

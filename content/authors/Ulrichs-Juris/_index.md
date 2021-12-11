@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Juris Ulrichs
+title: Juris Ulrichs
 
 # Is this the primary user of the site?
 superuser: false

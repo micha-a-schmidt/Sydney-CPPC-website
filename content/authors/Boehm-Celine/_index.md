@@ -1,12 +1,14 @@
 ---
 # Display name
-title: Prof Celine Boehm 
+title: Celine Boehm 
 
+authors:
+- Boehm-Celine
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-#role: University of Sydney 
+role: Professor
 
 # Organizations/Affiliations
 organizations:

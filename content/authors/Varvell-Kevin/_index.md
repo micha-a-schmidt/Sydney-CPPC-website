@@ -1,12 +1,15 @@
 ---
 # Display name
-title: Prof Kevin Varvell 
+title: Kevin Varvell 
+
+authors:
+- Varvell-Kevin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-#role: University of Sydney
+role: Professor
 
 # Organizations/Affiliations
 organizations:

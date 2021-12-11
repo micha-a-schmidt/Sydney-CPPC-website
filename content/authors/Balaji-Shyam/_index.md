@@ -1,17 +1,16 @@
 ---
 # Display name
-title: Dr Shyam Balaji
+title: Shyam Balaji
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student
+#role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Sydney
-  url: "https://sydney.edu.au/science/schools/school-of-physics.html"
+- name: LPTHE
 
 # Short bio (displayed in user profile at end of posts)
 #bio: XXX

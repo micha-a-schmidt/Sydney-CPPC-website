@@ -5,7 +5,7 @@ headless : true  # This file represents a page section.
 active : true  # Activate this widget? true/false
 weight : 40  # Order that this section will appear.
 
-title : "Seminars and Events"
+title : "Events"
 subtitle : ""
 
 design:
@@ -13,6 +13,8 @@ design:
 #  background:
 #    color: SkyBlue
 ---
+
+# Seminars
 
 Sydney-CPPC organizes a regular seminar series via [Zoom](https://uni-sydney.zoom.us/j/610935631) which is open to everyone. The usual times for the seminars are Thursdays at 11:00 or 16:00 Sydney time. Just click the link above to connect. The recordings of most of the seminars are available via our [Youtube channel](https://www.youtube.com/channel/UCtVYU6uw6Xu1UWq6OvLbpvg).
 
@@ -23,12 +25,13 @@ Past seminars and a detailed schedule of future events can be found on [indico](
 
 # Past Events
 
-* Feb 2021 Sydney Meeting
-* Dec 2021 Light Dark World
-* Nov 2021 Gordon Godfrey Workshop
-* Feb 2020 Sydney Meeting
-* Dec 2019 TeVPA
-* Nov 2019 Spring School
-* Nov 2016 CosPA
+* Feb 2021 [Sydney PhD student meeting](https://indico.cern.ch/event/999912)
+* Dec 2021 [Light Dark World](https://indico.cern.ch/event/948186)
+* Nov 2021 [Gordon Godfrey Workshop on astroparticle physics](https://indico.cern.ch/event/887490)
+* Feb 2020 [Sydney PhD student meeting](https://indico.cern.ch/event/857567)
+* Dec 2019 [TeVPA](https://indico.cern.ch/event/828038/)
+* Nov 2019 [Second Sydney Spring School](https://indico.cern.ch/event/833042/)
+* May 2019 [Sydney PhD student meeting](https://indico.cern.ch/event/857567)
+* Nov 2016 [CosPA](https://indico.cern.ch/event/491882/)
 * Oct 2015 [First Sydney Spring School](http://www.coepp.org.au/events/spring-school-particle-physics-and-cosmology)
 

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Aldo Saavedra
+title: Aldo Saavedra
 
 # Is this the primary user of the site?
 superuser: false

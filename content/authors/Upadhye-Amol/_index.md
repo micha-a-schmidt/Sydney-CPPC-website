@@ -1,18 +1,17 @@
 ---
 # Display name
-title: Dr Amol Upadhye
+title: Amol Upadhye
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Associate
+#role: Research Associate
 # (Research Associate)
 
 # Organizations/Affiliations
 organizations:
-- name: UNSW Sydney
-  url: "https://physics.unsw.edu.au"
+- name: Liverpool John Moores University
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include neutrino physics, dark matter, flavour physics and in general physics beyond the Standard Model.

@@ -1,12 +1,12 @@
 ---
 # Display name
-title: A/Prof Archil Kobakhidze 
+title: Archil Kobakhidze 
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-#role: University of Sydney
+role: Associate Professor 
 
 # Organizations/Affiliations
 organizations:

@@ -1,13 +1,12 @@
 ---
 # Display name
-title: Dr Chia-Ling Hsu 
+title: Chia-Ling Hsu 
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-#role: University of Sydney
-# (Research Associate)
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:

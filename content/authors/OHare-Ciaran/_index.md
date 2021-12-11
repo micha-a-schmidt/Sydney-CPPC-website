@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Dr Ciaran O'Hare 
+title: Ciaran O'Hare 
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-#role: University of Sydney
+role: Research Associate
 # (Research Associate)
 
 # Organizations/Affiliations

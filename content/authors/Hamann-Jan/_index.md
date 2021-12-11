@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Dr Jan Hamann
+title: Jan Hamann
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-#role: UNSW
+role: Senior Lecturer
 # (Senior Lecturer)
 
 # Organizations/Affiliations

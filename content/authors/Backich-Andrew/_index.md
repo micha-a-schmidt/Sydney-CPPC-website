@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Andrew Backich 
+title: Andrew Bakich 
 
 # Is this the primary user of the site?
 superuser: false
