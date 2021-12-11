@@ -20,7 +20,8 @@ content:
   - Research Associates
   - Students
   - Honorary Staff
-  - Alumni
+#  - Alumni
+  - Former Members
 #  - Principal Investigators
 #  - Researchers
 #  - Grad Students

@@ -64,6 +64,7 @@ email: ""
 user_groups:
 # - Research Associates
 - Alumni
+- Former Members
 ---
 
 ### Research interest

@@ -56,6 +56,7 @@ email: ""
 user_groups:
 # - Students
 - Alumni
+- Former Members
 ---
 ### Research interests
 Yunho's research is focussed on the theoretical investigation of possible manifestations of new physics phenomena in gravitational waves.
