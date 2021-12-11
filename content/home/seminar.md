@@ -1,7 +1,4 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
 
 widget : "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless : true  # This file represents a page section.
@@ -13,23 +10,8 @@ subtitle : ""
 
 design:
   columns : "1"
-  background:
-    color: SkyBlue
-#[design.background]
-#  # Background color.
-#   color : "SkyBlue"
-#  
-#[design.spacing]
-#  # Customize the section spacing. Order is top, right, bottom, left.
-#  padding : ["20px", "0", "20px", "0"]
-#
-#[advanced]
-# # Custom CSS. 
-# css_style : ""
-# 
-# # CSS class.
-# css_class : ""
-
+#  background:
+#    color: SkyBlue
 ---
 
 Sydney-CPPC organizes a regular seminar series via [Zoom](https://uni-sydney.zoom.us/j/610935631) which is open to everyone. The usual times for the seminars are Thursdays at 11:00 or 16:00 Sydney time. Just click the link above to connect. The recordings of most of the seminars are available via our [Youtube channel](https://www.youtube.com/channel/UCtVYU6uw6Xu1UWq6OvLbpvg).
