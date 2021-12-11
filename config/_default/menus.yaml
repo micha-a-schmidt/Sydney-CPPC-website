@@ -10,6 +10,6 @@ main:
   - name: Research
     url: "research"
     weight: 30
-  - name: Seminars
-    url: "#seminar"
+  - name: Events
+    url: "#event"
     weight: 40
