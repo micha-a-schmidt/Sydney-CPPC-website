@@ -2,9 +2,6 @@
 # Display name
 title: Bruce Yabsley 
 
-authors:
-- Yabsley-Bruce
-
 # Is this the primary user of the site?
 superuser: false
 

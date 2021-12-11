@@ -2,8 +2,6 @@
 # Display name
 title: Celine Boehm 
 
-authors:
-- Boehm-Celine
 # Is this the primary user of the site?
 superuser: false
 
