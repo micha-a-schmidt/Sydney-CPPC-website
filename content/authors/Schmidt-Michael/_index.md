@@ -46,6 +46,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/micha-a-schmidt
+- icon: www
+  icon_pack: fab
+  link: http://michael.cai-schmidt.org
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -78,7 +81,6 @@ Eur.Phys.J.C 79 (2019) 11, 938](https://doi.org/10.1140/epjc/s10052-019-7465-1);
 ### Research Students
 
 PhD students
-* [Cosmin Dumitrescu](http://www.sydney-cppc.org/authors/dumitrescu-cosmin)
-* [Tobias Felkl](http://www.sydney-cppc.org/authors/felkl-tobias)
-* [Adam Lackner](http://www.sydney-cppc.org/authors/lackner-adam)
+* [Tobias Felkl](http://www.sydney-cppc.org/authors/tobias-felkl)
+* [Adam Lackner](http://www.sydney-cppc.org/authors/adam-lackner)
 

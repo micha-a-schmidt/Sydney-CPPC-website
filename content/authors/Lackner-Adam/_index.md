@@ -58,4 +58,4 @@ user_groups:
 ---
 
 ### Research Interests
-Adam's research is focussed on neutrino physics. His PhD supervisor is [Dr. Michael Schmidt](http://www.sydney-cppc.org/authors/schmidt-michael).
+Adam's research is focussed on neutrino physics. His PhD supervisor is [Dr. Michael Schmidt](http://www.sydney-cppc.org/authors/michael-schmidt).
