@@ -46,9 +46,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/micha-a-schmidt
-- icon: www
-  icon_pack: fab
-  link: http://michael.cai-schmidt.org
+#- icon: www
+#  icon_pack: fab
+#  link: http://michael.cai-schmidt.org
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -68,6 +68,7 @@ user_groups:
 
 Michael's research interests are broadly in the field of physics beyond the Standard Model and astroparticle physics. Currently, he is focussed on the phenomenology of neutrino mass models and their connections to dark matter and baryogenesis, charged lepton flavour violation at precision experiments and colliders and the current flavour anomalies in semi-leptonic decays of B mesons.
 
+
 ### Selected publications
 
 1. S. Antusch, J. Kersten, M. Lindner, M. Ratz, M. A. Schmidt - *Running nutrino mass parameters in see-saw scenarios* - [JHEP 03 (2005) 024](https://doi.org/10.1088/1126-6708/2005/03/024); [e-Print: hep-ph/0501272](https://arxiv.org/abs/hep-ph/0501272)
@@ -84,3 +85,4 @@ PhD students
 * [Tobias Felkl](http://www.sydney-cppc.org/authors/tobias-felkl)
 * [Adam Lackner](http://www.sydney-cppc.org/authors/adam-lackner)
 
+See his [website](http://michael.cai-schmidt.org) for more details.
