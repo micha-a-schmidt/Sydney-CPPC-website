@@ -6,7 +6,7 @@ title: Chia-Ling Hsu
 superuser: false
 
 # Role/position
-role: Research Associate
+role: DECRA fellow
 
 # Organizations/Affiliations
 organizations:
