@@ -28,6 +28,8 @@ featured: false
 #  placement: 2
 #  preview_only: false
 
+external_link: https://indico.cern.ch/event/1107937/
+
 authors:
 - admin
 
