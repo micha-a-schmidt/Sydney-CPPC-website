@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yevgeny Stadnik 
+title: Ciaran O'Hare 
 
 # Is this the primary user of the site?
 superuser: false
