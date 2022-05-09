@@ -6,7 +6,8 @@ title: Joe Chen
 superuser: false
 
 # Role/position
-role: PhD student
+role: Research Associate 
+# role: PhD student
 
 # Organizations/Affiliations
 organizations:
