@@ -54,7 +54,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Students
+- Research Associates
+# - Students
 ---
 ### Research interests
 Cosmological neutrinos, cosmological perturbation theory, N-body simulations of large-scale structure.  Supervised by A/Prof Yvonne Wong.
