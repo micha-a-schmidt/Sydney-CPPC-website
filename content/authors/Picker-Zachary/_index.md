@@ -6,7 +6,7 @@ title: Zachary Picker
 superuser: false
 
 # Role/position
-role: PhD student
+#role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -54,7 +54,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Students
+#- Students
+- Alumni
+- Former Members
 ---
 ### Research interests
 Zac investigates cosmological and phenomenological aspects of 'non-traditional' dark matter candidates, such as primordial black holes, axions and modified gravities.
