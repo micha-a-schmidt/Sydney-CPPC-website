@@ -1,13 +1,12 @@
 ---
 # Display name
-title: Joe Chen
+title: Gabriela Lima Lichtenstein
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Associate 
-# role: PhD student
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -15,7 +14,7 @@ organizations:
   url: "https://physics.unsw.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-#bio: XXX
+#bio: My research interests include neutrino physics and flavour physics.
 
 #education:
 #  courses:
@@ -55,17 +54,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-#- Research Associates
-# - Students
-- Alumni
+- Research Associates
 ---
-### Research interests
-Cosmological neutrinos, cosmological perturbation theory, N-body simulations of large-scale structure.  Supervised by A/Prof Yvonne Wong.
-
-### Selected publications
-1. G. Barenboim, J. Z. Chen, S. Hannestad, I. M. Oldengott, T. Tram, and Y. Y. Y. Wong, *Invisible neutrino decay in precision cosmology*, [arXiv:2011.01502 [astro-ph.CO]](https://arxiv.org/abs/2011.015602).
-
-2. J. Z. Chen, A. Upadhye, and Y. Y. Y .Wong, *The cosmic neutrino background as a collection of fluids in large-scale structure simulations*, [arXiv:2011.12503 [astro-ph.CO]](https://arxiv.org/abs/2011.12503).
-
-3. J. Z. Chen, A. Upadhye, and Y. Y. Y .Wong, *One line to run them all: SuperEasy massive neutrino linear response in N-body simulations*, [arXiv:2011.12504 [astro-ph.CO]](https://arxiv.org/abs/2011.12504).
-

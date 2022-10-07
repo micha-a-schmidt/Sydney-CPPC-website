@@ -54,7 +54,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Students
+#- Students
 ---
 ### Research interests
 Precision calculation of the effective number of neutrinos Neff. Supervised by A/Prof Wong.
