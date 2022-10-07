@@ -58,6 +58,7 @@ user_groups:
 #- Research Associates
 # - Students
 - Alumni
+- Former Members
 ---
 ### Research interests
 Cosmological neutrinos, cosmological perturbation theory, N-body simulations of large-scale structure.  Supervised by A/Prof Yvonne Wong.
