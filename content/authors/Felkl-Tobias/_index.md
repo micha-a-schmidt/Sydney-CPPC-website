@@ -56,10 +56,11 @@ email: ""
 user_groups:
 - Research Associates
 ---
-
 ### Research Interests
-Tobias's research currently focuses on the phenomenology of neutrino mass models and aspects of flavour physics. His PhD supervisor was [Dr. Michael Schmidt](http://www.sydney-cppc.org/authors/michael-schmidt).
+Tobias is broadly interested in open questions regarding the Standard Model of Particle Physics. He has recently been working in flavour physics, with an emphasis on neutrino mass models and the observed anomalies in B-meson decays. Tobias's PhD supervisor was [Dr. Michael Schmidt](http://www.sydney-cppc.org/authors/michael-schmidt).
 
 ### Selected Publications
-1. T. Felkl, J. Herrero-Garcia, M. A. Schmidt - *The Singly-Charged Scalar Singlet as the Origin of Neutrino Masses* - [JHEP 05 (2021) 122](https://doi.org/10.1007/JHEP05(2021)122); [e-Print: 2102.09898](https://arxiv.org/abs/2102.09898)
-2. T. Felkl, S. L. Li, M. A. Schmidt - *A Tale of Invisibility: Constraints on New Phyiscs in $b\to s \nu\nu$* - [e-Print: 2111.04327](https://arxiv.org/abs/2111.04327)
+1. I. Bigaran, T. Felkl, C. Hagedorn, M. A. Schmidt - *Flavour Anomalies Meet Flavour Symmetry* - [e-Print: 2207.06197](https://arxiv.org/abs/2207.06197)
+2. C. O’Hare, D. Loomba et al. - *Recoil Imaging for Dark Matter, Neutrinos and Physics Beyond the Standard Model* - Contribution to 2022 Snowmass Summer Study; [e-Print: 2203.05914](https://arxiv.org/abs/2203.05914)
+3. T. Felkl, S. L. Li, M. A. Schmidt - *A Tale of Invisibility: Constraints on New Physics in $b\to s \nu\nu$* - [JHEP 12 (2021) 118](https://doi.org/10.1007/JHEP12(2021)118); [e-Print: 2111.04327](https://arxiv.org/abs/2111.04327)
+4. T. Felkl, J. Herrero-Garcia, M. A. Schmidt - *The Singly-Charged Scalar Singlet as the Origin of Neutrino Masses* - [JHEP 05 (2021) 122](https://doi.org/10.1007/JHEP05(2021)122), [JHEP 05 (2022) 73](https://doi.org/10.1007/JHEP05(2022)073) (Erratum); [e-Print: 2102.09898](https://arxiv.org/abs/2102.09898)
