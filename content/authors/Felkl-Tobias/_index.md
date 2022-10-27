@@ -57,7 +57,7 @@ user_groups:
 - Research Associates
 ---
 ### Research Interests
-Tobias is broadly interested in open questions regarding the Standard Model of Particle Physics. He has recently been working in flavour physics, with an emphasis on neutrino mass models and the observed anomalies in B-meson decays. Tobias's PhD supervisor was [Dr. Michael Schmidt](http://www.sydney-cppc.org/authors/michael-a-schmidt).
+Tobias is broadly interested in open questions regarding the Standard Model of Particle Physics. He has recently been working in flavour physics, with an emphasis on neutrino mass models and the observed anomalies in B-meson decays. Tobias's PhD supervisor was [Dr. Michael Schmidt](http://www.sydney-cppc.org/author/michael-a-schmidt).
 
 ### Selected Publications
 1. I. Bigaran, T. Felkl, C. Hagedorn, M. A. Schmidt - *Flavour Anomalies Meet Flavour Symmetry* - [e-Print: 2207.06197](https://arxiv.org/abs/2207.06197)
