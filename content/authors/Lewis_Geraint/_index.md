@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Archil Kobakhidze 
+title: Geraint Lewis 
 
 # Is this the primary user of the site?
 superuser: false
@@ -44,7 +44,7 @@ social:
 #  link: https://twitter.com/micha_a_schmidt
 - icon: inspire
   icon_pack: ai
-  link: https://inspirehep.net/authors/1002526
+  link: https://inspirehep.net/authors/1024365
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=bPztMIoAAAAJ
@@ -66,14 +66,3 @@ user_groups:
 - Academic Staff
 #- Vistor
 ---
-
-### Research interests
-Archil’s research interests span a range of longstanding problems in particle theory and phenomenology, gravity and cosmology. Currently he is focussed on the development of the scale invariant paradigm for particle physics and cosmology, on studies of gravitational waves, nonperturbative electroweak phenomena and implications of cosmological phase transitions.
-
-### Selected publications
-
-1. R. Foot, A. Kobakhidze, K.L. McDonald and R. Volkas - *A Solution to the hierarchy problem from an almost decoupled hidden sector within a classically scale invariant theory* - [Phys. Rev. D 77 (2008) 035006](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.77.035006); [e-Print: 0709.2750](https://arxiv.org/abs/0709.2750).
-2. A. Kobakhidze and A. Spencer-Smith - *Electroweak Vacuum (In)Stability in an Inflationary Universe* - [Phys. Lett. B 722 (2013) 130-134](https://www.sciencedirect.com/science/article/abs/pii/S037026931300292X?via%3Dihub); [e-Print: 1301.2846](https://arxiv.org/abs/1301.2846).
-3. A. Kobakhidze, L.Wu and J. Yue - *Electroweak Baryogenesis with Anomalous Higgs Couplings* - [JHEP 04 (2016) 011](https://link.springer.com/article/10.1007%2FJHEP04%282016%29011); [e-Print 1512.08922](https://arxiv.org/abs/1512.08922).
-4. A. Kobakhidze, C. Lagger and A. Manning - *Constraining noncommutative spacetime from GW150914* - [Phys. Rev. D 94 (2016) 6, 064033](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.94.064033); [e-Print: 1607.03776](https://arxiv.org/abs/1607.03776).
-5. S. Arunasalam and A. Kobakhidze – *Electroweak monopoles and the electroweak phase transition* - [Eur. Phys. J. C 77 (2017) 7, 444](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-017-4999-y); [e-Print: 1702.04068](https://arxiv.org/abs/1702.04068).
