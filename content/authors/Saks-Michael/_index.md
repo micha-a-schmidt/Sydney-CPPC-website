@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Michael Saks
+title: Michael Sacks
 
 # Is this the primary user of the site?
 superuser: false

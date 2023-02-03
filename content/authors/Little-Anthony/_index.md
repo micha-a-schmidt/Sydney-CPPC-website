@@ -6,7 +6,7 @@ title: Anthony Little
 superuser: false
 
 # Role/position
-role: Honours student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
