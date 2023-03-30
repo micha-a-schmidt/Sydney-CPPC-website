@@ -59,5 +59,33 @@ email: ""
 user_groups:
 - Students
 ---
-### Research Interests
-Giovanni's research is focussed on axions. He is jointly supervised by [A/Prof. Yvonne Wong](http://www.sydney-cppc.org/authors/wong-yvonne) and [Dr. Michael Schmidt](http://www.sydney-cppc.org/authors/schmidt-michael).
+
+### Research interests
+
+Giovanni’s research is focussed on axions, dark matter and numerical simulations in cosmology. His supervisor is [A/Prof. Yvonne Wong](http://www.sydney-cppc.org/authors/wong-yvonne).
+
+
+Publications 
+
+1. B. Eggemeier, C.A.J. O'Hare, G. Pierobon, J. Redondo, Y.Y.Y. Wong, 
+   Axion minivoids and implications for direct detection
+   e-Print: [arXiv:2212.00560](https://arxiv.org/abs/2212.00560), 2022.
+
+2. J. Z. Chen, I. M. Oldengott, G. Pierobon, Y.Y.Y. Wong,
+   Weaker yet again: mass spectrum-consistent cosmological constraints on the neutrino lifetim 
+   [Eur. Phys. J. C 82, 640](https://link.springer.com/article/10.1140/epjc/s10052-022-10518-3), 
+   e-Print: [arXiv:2203.09075](https://arxiv.org/abs/2203.09075), 2022.
+
+3. C.A.J. O'Hare, G. Pierobon, J. Redondo, Y.Y.Y. Wong,
+   Simulations of axion-like particles in the post-inflationary scenario,
+   [Phys. Rev. D 105, 055025](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.055025),
+   e-Print: [arXiv:2112.05117](https://arxiv.org/abs/2112.05117), 2021.
+
+4. Z.Chen, A. Kobakhidze, C.A.J. O'Hare, Z.S.C. Picker, G. Pierobon,
+   Cosmology of the companion-axion model: dark matter, gravitational waves, and primordial black holes,
+   e-Print: [arXiv:2110.11014](https://arxiv.org/abs/2110.11014), 2021.
+
+5. Z.Chen, A. Kobakhidze, C.A.J. O'Hare, Z.S.C. Picker, G. Pierobon,
+   Phenomenology of the companion-axion model: photon couplings,
+   [Eur. Phys. J. C 82, 940](https://link.springer.com/article/10.1140/epjc/s10052-022-10909-6),
+   e-Print: [arXiv:2109.12920](https://arxiv.org/abs/2109.12920), 2021.
