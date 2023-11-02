@@ -54,7 +54,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Students
+- Alumni
+- Former Members
 ---
 ### Research interest
 Dark matter, cosmological neutrinos, N-body simulations of large-scale structure.  Jointedly supervised by Prof Celine Boehm and A/Prof Yvonne Wong.
