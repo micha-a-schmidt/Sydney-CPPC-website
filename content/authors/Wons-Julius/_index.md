@@ -6,7 +6,7 @@ title: Julius Wons
 superuser: false
 
 # Role/position
-role: PhD student
+#role: PhD student
 
 # Organizations/Affiliations
 organizations:
